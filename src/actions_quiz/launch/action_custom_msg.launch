@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="actions_quiz" type="up_down_action.py" name="action_custom_msg" output="screen" />
+</launch>
